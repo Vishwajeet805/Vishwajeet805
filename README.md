@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Vishwajeet Singh
 
 # 💫 About Me:
-🔭 I’m currently focused on strengthening fundamentals in C, C++, Java, and DSA, <br>👯 I’m looking to collaborate on beginner-friendly open source & college projects  <br>🤝 I’m looking for help with advanced DSA and real-world project ideas <br>🌱 I’m currently learning Data Structures, OOPs, and Web Development  <br>💬 Ask me about C, C++, basic Java, logic building, and coding practice<br>⚡ Fun fact: I enjoy debugging more than writing fresh code 😄
+
+🔭 I’m currently focused on strengthening fundamentals in **C, C++, Java, and DSA** <br>👯 I’m looking to collaborate on beginner-friendly open source & college projects  <br>🤝 I’m looking for help with advanced DSA and real-world project ideas <br>🌱 I’m currently learning Data Structures, OOPs, and Web Development  <br>💬 Ask me about C, C++, basic Java, logic building, and coding practice<br>⚡ Fun fact: I enjoy debugging more than writing fresh code 😄
 
 
 ## 🌐 Socials:
