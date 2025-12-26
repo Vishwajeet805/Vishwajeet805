@@ -15,9 +15,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  
-</p>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwajeet805&theme=react" alt="Hoang Son's GitHub Streak" />
+</div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwajeet805&theme=react" />
 </p>
