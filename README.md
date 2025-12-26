@@ -16,9 +16,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="32%" height="180" src="https://github-readme-stats.vercel.app/api?username=Vishwajeet805&theme=react&hide_border=false&include_all_commits=false&count_private=true" />
-  <img width="32%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajeet805&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-  <img width="32%" height="180" src="https://nirzak-streak-stats.vercel.app/?user=Vishwajeet805&theme=react&hide_border=false" />
+  
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwajeet805&theme=react" />
