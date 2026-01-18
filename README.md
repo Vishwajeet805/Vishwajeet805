@@ -14,10 +14,12 @@
 
 
 ## 🔥 GitHub Streak
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishwajeet805&show_icons=true&v=2)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vishwajeet805&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishwajeet805&show_icons=true&v=2&theme=react" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vishwajeet805&theme=react" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwajeet805&theme=react" />
